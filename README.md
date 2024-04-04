@@ -118,8 +118,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/Hemajaisuriya/lifecyclemethods/assets/147486496/7c83a85e-7e37-41d9-9072-335300b13f9f)
-![image](https://github.com/Hemajaisuriya/lifecyclemethods/assets/147486496/89408a0c-bf1b-4e4a-8eef-1477994e5762)
 ![image](https://github.com/Hemajaisuriya/lifecyclemethods/assets/147486496/8f28b8a7-b76a-4bb0-b96f-c09f148e5b9f)
 ![image](https://github.com/Hemajaisuriya/lifecyclemethods/assets/147486496/96780a84-1538-4158-a024-f19a3f48e370)
 ![image](https://github.com/Hemajaisuriya/lifecyclemethods/assets/147486496/4288a66c-f156-4135-980e-3040da2b9af3)
